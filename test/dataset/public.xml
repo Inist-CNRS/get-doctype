@@ -1,0 +1,41 @@
+<?xml version="1.0"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN" 
+ "http://www.tei-c.org/Lite/DTD/teixlite.dtd">
+ <TEI.2 >
+ <teiHeader>
+<!--[ header information for the composite ]-->
+ </teiHeader>
+ <text>
+  <front>
+<!--[ front matter for the composite ]-->
+  </front>
+  <group>
+   <text>
+    <front>
+<!--[ front matter of first text ]-->
+    </front>
+    <body>
+<!--[ body of first text ]-->
+    </body>
+    <back>
+<!--[ back matter of first text ]-->
+    </back>
+   </text>
+   <text>
+    <front>
+<!--[ front matter of second text]-->
+    </front>
+    <body>
+<!--[ body of second text ]-->
+    </body>
+    <back>
+<!--[ back matter of second text ]-->
+    </back>
+   </text>
+<!--[ more texts or groups of texts here ]-->
+  </group>
+  <back>
+<!--[ back matter for the composite ]-->
+  </back>
+ </text>
+</TEI.2>
