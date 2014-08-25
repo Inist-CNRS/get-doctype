@@ -13,7 +13,7 @@ Make usage of existing module :
 
 Readin a file from its path :
 ```
-./get-doctype test/dataset/public.xml 
+./parse-doctype test/dataset/public.xml 
 ```
 Output looks like this :
 ```
@@ -26,7 +26,7 @@ Output looks like this :
 Reading stdin :
 
 ```
-cat test/dataset/public.xml | ./get-doctype
+cat test/dataset/public.xml | ./parse-doctype
 ```
 
 # From a javascript / nodejs program
