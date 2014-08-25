@@ -13,68 +13,46 @@
 var fs = require('fs');
 var saxStream = require("sax").createStream(true);
 
+// object which will be displayed as output
 var doctype = new Object();
 
+var exitCode = 0;
+
+// If an opened tag is read, no Doctype is found, exit with status code = 1
 saxStream.on("opentag", function(node) {
-  // opened a tag.  node has "name" and "attributes"
-  // console.log("tag <" + node.name + "> ouvert, on s'arrete");
-  process.exit(0);
+  process.stderr.write("No doctype found\n");
+  process.exit(1);
 });
 
+// doctype tag read, trying to "smart" parse it
 saxStream.on("doctype", function(doctypeString) {
-  // opened a tag.  node has "name" and "attributes"
-  // console.log("doctype détectée : ");
+
+  // console.log("doctype found : ");
   var trimmedDoctype = doctypeString.replace(/\s+/g, ' ').trim();
-  // console.log(trimmedDoctype.trim());
-  var doctypeParts = trimmedDoctype.split(" ");
-  doctype.name = doctypeParts[0];
 
-  //Plus d'infos sur la partie DOCTYPE : http://www.w3.org/TR/REC-xml/#NT-doctypedecl
-  /*
-  if (doctypeParts[1] === "SYSTEM") {
-    //DTD système, une seule partie entre quotes : le chemin vers la DTD
-    doctype.type = "SYSTEM";
-    doctype.path = doctypeParts[2];
-
-  } else if (doctypeParts[1] === "PUBLIC") {
-    //DTD public, deux parties entre guillemets : publicID + URL vers DTD
-    doctype.type = "PUBLIC";
-    doctype.publicID = doctypeParts[2];
-    var doctypeURL = trimmedDoctype.split("\" \"")[1].split("\"")[0];
-    // console.log(doctypeURL); 
-    doctype.path = doctypeURL;
-  } else if (doctypeParts[1].charAt(0)) {
-    //DTD locale : définier entre '[' et ']'
-    doctype.type = "LOCAL";
-  } else {
-    //DTD mal formatée
-  }
-*/
   var start = 0;
   var dt = "<!DOCTYPE " + trimmedDoctype + ">";
-  console.log(dt);
 
+  // split the doctype to get name and identifiers
   var matchs = split(dt, start);
-  // console.log(matchs);
-  
   var len = matchs.length;
   if (len > 1 && /!doctype/i.test(matchs[0][0])) {
     doctype.name = matchs[1][0];
     doctype.pubid = len > 3 && /^public$/i.test(matchs[2][0]) && matchs[3][0]
     doctype.sysid = len > 4 && matchs[4][0];
-    // var lastMatch = matchs[len - 1]
-    // domBuilder.startDTD(name, pubid && pubid.replace(/^(['"])(.*?)\1$/, '$2'),
-    //   sysid && sysid.replace(/^(['"])(.*?)\1$/, '$2'));
-    // domBuilder.endDTD();
-    // return lastMatch.index + lastMatch[0].length
+  } else {
+    process.stderr.write("Unable to parse doctype\n");
+    exitCode = 1;
   }
 
-   console.log(doctype);
-  process.exit(0);
+  if (exitCode === 0) console.log(doctype);
+  process.exit(exitCode);
 });
 
+//Error parsing the XML document
 saxStream.on("error", function(err) {
   // opened a tag.  node has "name" and "attributes"
+  process.stderr.write("SAX parsing problem :\n");
   process.stderr.write(err + "\n");
   process.exit(1);
 });
@@ -86,7 +64,10 @@ fs.createReadStream(xmlPath).pipe(saxStream);
 process.stdin.pipe(saxStream);
 
 
-
+/*
+ * Split the doctype string
+ * Thanks to https://github.com/jindw/xmldom
+ */
 function split(source, start) {
   var match;
   var buf = [];
