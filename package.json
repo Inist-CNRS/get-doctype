@@ -1,0 +1,31 @@
+{
+  "name": "get-doctype",
+  "version": "0.0.0",
+  "description": "Javascript module for parsing doctypes in XML document",
+  "main": "get-doctype",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "sax": "^0.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/niederlec/get-doctype.git"
+  },
+  "keywords": [
+    "doctype",
+    "xml",
+    "parser"
+  ],
+  "author": "Claude Niederlender",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niederlec/get-doctype/issues"
+  },
+  "homepage": "https://github.com/niederlec/get-doctype"
+}
