@@ -45,3 +45,15 @@ describe('parse XML with no doctype', function() {
     });
   });
 });
+
+describe('parse doctype', function() {
+  it('should work with the parseString function', function() {
+
+    var xmlString = '<?xml version="1.0"?><!DOCTYPE greeting SYSTEM "hello.dtd"><greeting>Hello, world!</greeting>';
+    getDoctype.parseString(xmlString, function(doctype) {
+      expect(doctype).to.be.an('object');
+      expect(doctype.name).to.equal('greeting');
+      expect(doctype.sysid).to.equal('hello.dtd');
+    });
+  });
+});
