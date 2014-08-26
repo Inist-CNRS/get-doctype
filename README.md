@@ -12,11 +12,11 @@ Make usage of existing module :
 ## From command line
 
 Readin a file from its path :
-```
+```bash
 ./parse-doctype test/dataset/public.xml 
 ```
 Output looks like this :
-```
+```javascript
 { type: 'PUBLIC',
   name: 'TEI.2',
   pubid: '-//TEI P4//DTD Main DTD Driver File//EN',
@@ -25,7 +25,7 @@ Output looks like this :
 
 Reading stdin :
 
-```
+```bash
 cat test/dataset/public.xml | ./parse-doctype
 ```
 
@@ -33,7 +33,7 @@ cat test/dataset/public.xml | ./parse-doctype
 
 Readin a file from its path :
 
-```    
+```javascript
 var getDoctype = require("get-doctype");
 var xmlFile = "test/dataset/public.xml";
 getDoctype.parseFile(xmlFile, function(doctype) {
@@ -42,16 +42,19 @@ getDoctype.parseFile(xmlFile, function(doctype) {
 ```
 
 Reading stdin :
-```
-getDoctype.parseStdin(function(doctype) {
+```javascript
+getDoctype.parseStdin(function (doctype) {
   // Do what you want with the docytype object
 });
 ```
 
 if you want to parse a string containing the XML
 
-```
-var xmlString = '<?xml version="1.0"?><!DOCTYPE greeting SYSTEM "hello.dtd"><greeting>Hello, world!</greeting>';
+```javascript
+var xmlString =
+    '<?xml version="1.0"?>'
+  + '<!DOCTYPE greeting SYSTEM "hello.dtd">'
+  + '<greeting>Hello, world!</greeting>';
 getDoctype.parseString(xmlString, function(doctype) {
   // Do what you want with the docytype object
 });
