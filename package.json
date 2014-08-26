@@ -1,6 +1,6 @@
 {
   "name": "get-doctype",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Javascript module for parsing doctypes in XML document",
   "main": "get-doctype",
   "directories": {
