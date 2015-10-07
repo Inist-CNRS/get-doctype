@@ -1,15 +1,15 @@
 {
   "name": "get-doctype",
-  "version": "0.0.4",
+  "version": "1.0.0",
   "description": "Javascript module for parsing doctypes in XML document",
   "main": "get-doctype",
   "directories": {
     "test": "test"
   },
   "dependencies": {
-    "chai": "^1.9.1",
-    "mocha": "^1.21.4",
-    "sax": "^0.6.0"
+    "chai": "^3.3.0",
+    "mocha": "^2.3.3",
+    "sax": "^1.1.3"
   },
   "devDependencies": {},
   "scripts": {
