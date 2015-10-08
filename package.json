@@ -13,7 +13,7 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "mocha test/*.js"
+    "test": "mocha --reporter list test/*.js"
   },
   "repository": {
     "type": "git",

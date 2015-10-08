@@ -1,4 +1,4 @@
-/* global require, __dirname */
+/* global require, __dirname, describe */
 /*jslint indent: 2 */
 
 'use strict';
@@ -6,62 +6,70 @@
 var expect = require('chai').expect;
 var getDoctype = require("../lib/get-doctype.js");
 
-describe('parse public doctype', function() {
-  it('should return correct "name", "pubid" and "sysid"', function() {
-    var xmlFile = __dirname + '/../test/dataset/public.xml';
-    getDoctype.parseFile(xmlFile, function(err, doctype) {
-      console.log(doctype);
-      expect(doctype).to.be.an('object');
-      expect(doctype.name).to.equal('TEI.2');
-      expect(doctype.pubid).to.equal('-//TEI P4//DTD Main DTD Driver File//EN');
-      expect(doctype.sysid).to.equal('http://www.tei-c.org/Lite/DTD/teixlite.dtd');
+describe('get-doctype', function () {
+  describe('#parseFile()', function () {
+    it('with *public doctype* should return correct "name", "pubid" and "sysid"', function (done) {
+      var xmlFile = __dirname + '/../test/dataset/long.xml';
+      getDoctype.parseFile(xmlFile, function (err, doctype) {
+//        console.log(err || doctype || "");
+        expect(doctype).to.be.an('object');
+        expect(doctype.name).to.equal('TEI.2');
+        expect(doctype.pubid).to.equal('-//TEI P4//DTD Main DTD Driver File//EN');
+        expect(doctype.sysid).to.equal('http://www.tei-c.org/Lite/DTD/teixlite.dtd');
+
+        done();
+      });
+
+    });
+
+    it('with *system doctype* should return correct "name" and "sysid"', function (done) {
+      var xmlFile = __dirname + '/../test/dataset/system.xml';
+      getDoctype.parseFile(xmlFile, function (err, doctype) {
+//        console.log(err || doctype || "");
+        expect(doctype).to.be.an('object');
+        expect(doctype.name).to.equal('greeting');
+        expect(doctype.sysid).to.equal('hello.dtd');
+
+        done();
+      });
+    });
+
+    it('with *local doctype* should return correct "name"', function (done) {
+      var xmlFile = __dirname + '/../test/dataset/local.xml';
+      getDoctype.parseFile(xmlFile, function (err, doctype) {
+
+        expect(doctype).to.be.an('object');
+        expect(doctype.name).to.equal('greeting');
+
+        done();
+      });
+    });
+
+    it('with *no doctype* should return `Error` "No doctype found"', function (done) {
+      var xmlFile = __dirname + '/../test/dataset/no-doctype.xml';
+      getDoctype.parseFile(xmlFile, function (err, doctype) {
+
+        expect(err.message).to.equal('No doctype found');
+
+        done();
+      });
     });
   });
-});
 
-describe('parse system doctype', function() {
-  it('should return correct "name" and "sysid"', function() {
-    var xmlFile = __dirname + '/../test/dataset/system.xml';
-    getDoctype.parseFile(xmlFile, function(err, doctype) {
-         console.log(doctype);
-      expect(doctype).to.be.an('object');
-      expect(doctype.name).to.equal('greeting');
-      expect(doctype.sysid).to.equal('hello.dtd');
+
+  describe.skip('Parse doctype', function () {
+    it('should work with the parseString function', function (done) {
+
+      var xmlString = '<?xml version="1.0"?><!DOCTYPE greeting SYSTEM "hello.dtd"><greeting>Hello, world!</greeting>';
+      getDoctype.parseString(xmlString, function (err, doctype) {
+        console.log("fuck", doctype);
+        expect(doctype).to.be.an('object');
+        expect(doctype.name).to.equal('greeting');
+        expect(doctype.sysid).to.equal('hello.dtd');
+
+        done();
+      });
     });
   });
-});
 
-describe('parse local doctype', function() {
-  it('should return correct "name"', function() {
-    var xmlFile = __dirname + '/../test/dataset/local.xml';
-    getDoctype.parseFile(xmlFile, function(err, doctype) {
-         console.log(doctype);
-      expect(doctype).to.be.an('object');
-      expect(doctype.name).to.equal('greeting');
-    });
-  });
-});
-
-describe('parse XML with no doctype', function() {
-  it('should return correct "name"', function() {
-    var xmlFile = __dirname + '/../test/dataset/no-doctype.xml';
-    getDoctype.parseFile(xmlFile, function(err, doctype) {
-         console.log(doctype);
-      expect(doctype).to.be.an('object');
-      expect(doctype.name).to.equal('greeting');
-    });
-  });
-});
-
-describe('parse doctype', function() {
-  it('should work with the parseString function', function() {
-
-    var xmlString = '<?xml version="1.0"?><!DOCTYPE greeting SYSTEM "hello.dtd"><greeting>Hello, world!</greeting>';
-    getDoctype.parseString(xmlString, function(err, doctype) {
-         console.log(doctype);
-      expect(doctype).to.be.an('object');
-      expect(doctype.name).to.equal('greeting');
-      expect(doctype.sysid).to.equal('hello.dtd');
-    });
-  });
 });

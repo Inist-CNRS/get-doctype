@@ -1,0 +1,517 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE TEI.2 PUBLIC "-//TEI P4//DTD Main DTD Driver File//EN"
+ "http://www.tei-c.org/Lite/DTD/teixlite.dtd">
+<component xmlns="http://www.wiley.com/namespaces/wiley" version="2.0" type="serialArticle" xml:lang="en">
+
+  <header>
+    <publicationMeta level="product">
+      <publisherInfo>
+        <publisherName>Blackwell Publishing Ltd</publisherName>
+        <publisherLoc>Oxford, UK</publisherLoc>
+      </publisherInfo>
+      <doi origin="wiley" registered="yes">10.1111/(ISSN)1755-5825</doi>
+      <issn type="print">1020-2226</issn>
+      <issn type="electronic">1755-5825</issn>
+      <idGroup>
+        <id type="product" value="MUSF"/>
+        <id type="publisherDivision" value="ST"/>
+      </idGroup>
+      <titleGroup>
+        <title type="main" sort="MUSEUM INTERNATIONAL (EDITION FRANCAISE)">Museum International (Edition Francaise)</title>
+      </titleGroup>
+    </publicationMeta>
+    <publicationMeta level="part" position="01002">
+      <doi origin="wiley">10.1111/musf.1981.33.issue-2</doi>
+      <numberingGroup>
+        <numbering type="journalVolume" number="33">33</numbering>
+        <numbering type="journalIssue" number="2">2</numbering>
+      </numberingGroup>
+      <coverDate startDate="1981-01-12">January/December 1981</coverDate>
+    </publicationMeta>
+    <publicationMeta level="unit" type="article" position="2" status="forIssue">
+      <doi origin="wiley">10.1111/j.1755-5825.1981.tb01981.x</doi>
+      <idGroup>
+        <id type="unit" value="MUSF1981"/>
+      </idGroup>
+      <countGroup>
+        <count type="pageTotal" number="3"/>
+      </countGroup>
+      <titleGroup>
+        <title type="tocHeading1">Original Article</title>
+      </titleGroup>
+      <copyright>1981 UNESCO</copyright>
+      <eventGroup>
+        <event type="firstOnline" date="2009-04-24"/>
+        <event type="publishedOnlineFinalForm" date="2009-04-24"/>
+        <event type="xmlConverted" agent="Converter:BPG_TO_WML3G version:2.3.2 mode:FullText source:Header result:Header" date="2010-03-16"/>
+        <event type="xmlConverted" agent="Converter:WILEY_ML3G_TO_WILEY_ML3GV2 version:3.8.8" date="2014-02-03"/>
+        <event type="xmlConverted" agent="Converter:WML3G_To_WML3G version:4.1.7 mode:FullText,remove_FC" date="2014-10-31"/>
+      </eventGroup>
+      <numberingGroup>
+        <numbering type="pageFirst" number="72">72</numbering>
+        <numbering type="pageLast" number="74">74</numbering>
+      </numberingGroup>
+      <linkGroup>
+        <link type="toTypesetVersion" href="file:MUSF.MUSF1981.pdf"/>
+
+
+      </linkGroup>
+    </publicationMeta>
+    <contentMeta>
+      <countGroup>
+        <count type="referenceTotal" number="0"/>
+        <count type="linksCrossRef" number="0"/>
+      </countGroup>
+      <titleGroup>
+        <title type="main">The National Museum in Belgrade: a brief overview</title>
+      </titleGroup>
+      <creators>
+        <creator creatorRole="author" xml:id="cr1">
+          <personName>
+            <givenNames>Desanka</givenNames>
+            <familyName>MiloŠević</familyName>
+          </personName>
+        </creator>
+      </creators>
+      <abstractGroup>
+        <abstract type="main" xml:lang="en">
+          <p>
+            <i>The museogrophical history and organization of the National Museum at Belgrade were described very fully in</i> Museum <i>twenty‐six years ago (‘Reorganization of the National Museum, Belgrade’, by Djordje Mano‐Zissi</i>, Museum, Vol. VIII, No. 1, 1955, pp. 50–63) The details of this custodian of the material culture and art of the Serbian nation have not changed. Nevertheless, we requested Desanka MiloŠević to complete her preceding article with a brief overview of the museum's collections as they are today, and of the conservation, excavation and popularization activities with which they are interlinked.</p>
+        </abstract>
+      </abstractGroup>
+    </contentMeta>
+  </header>
+  <body sectionsNumbered="no">
+    <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup>
+    <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup>
+    <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup>
+    <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup>
+    <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup>
+    <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup>
+    <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup>
+    <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup>
+    <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup>
+    <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup>
+    <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup>
+    <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup>
+    <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup>
+    <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup>
+    <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup>
+    <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup>
+    <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup>
+    <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup>
+    <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup>
+    <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup>
+    <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup>
+    <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup>
+     <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup> <noteGroup>
+      <title type="main">Footnotes</title>
+      <note xml:id="fn1">
+        <label>1</label>
+        <p>Lepcnski Vir is a prehistoric village site about 7,000 years old, discovered in 1965 during earthworks for the Djerdap dam and excavated by a team of archaeologists under the direction of Professor Dragoslav Srejović of the University of Belgrade. Eighty‐five dwellings were discovered, the first examples in this part of Europe of a clear and definite architectural conception, together with numerous sculptures, which are displayed in the site museum. Threatened with submersion by the rising waters, the village of Lepenski Vir, like Abu Simbel, was transferred to higher ground, where the houses were reconstructed after thorough conservation treatment under the direction of Milka Canak‐Medić and Milorad Medic, Head of the National Museum's Conservation Department.—Ed.</p>
+      </note>
+    </noteGroup>
+  </body>
+</component>
