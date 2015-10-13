@@ -57,8 +57,8 @@ describe('get-doctype', function () {
       });
     });
 
-    it('with *brill_156* should return `Error` "No doctype found"', function (done) {
-      var xmlFile = __dirname + '/../test/dataset/Brill_15685152_021_02_S08_text.xml';
+    it('with parsing problem, should return `Error` "No doctype found"', function (done) {
+      var xmlFile = __dirname + '/../test/dataset/parsing-problem.xml';
       getDoctype.parseFile(xmlFile, function (err, doctype) {
         expect(err.message).to.contain("No doctype found");
         done();
