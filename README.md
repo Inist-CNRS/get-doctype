@@ -29,7 +29,20 @@ Reading stdin :
 cat test/dataset/public.xml | ./parse-doctype
 ```
 
-# From a javascript / nodejs program
+If no doctype found or error while parsing file, then an error is thrown.
+
+```bash
+./parse-doctype test/dataset/no-doctype.xml
+[Error: No doctype found]
+
+./parse-doctype test/dataset/parsing-problem.xml 
+[Error: No doctype found, Sax-Error: Unexpected end
+Line: 0
+Column: 180
+Char: ]
+```
+
+## From a javascript / nodejs program
 
 Readin a file from its path :
 
