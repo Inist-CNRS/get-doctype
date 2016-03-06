@@ -7,7 +7,6 @@ Make usage of existing module :
   - saxjs for SAX parsing XML document (https://github.com/isaacs/sax-js)
   - piece of code of "xmldom" for splitting doctype into correc parts (https://github.com/jindw/xmldom, split function of sax.js file)
 
-
 # Usage
 ## From command line
 
